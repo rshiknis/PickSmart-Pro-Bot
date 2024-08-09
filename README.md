@@ -13,4 +13,4 @@ Notifications: Can be configured to send alerts for high EV plays via various ch
 
 Collaborated with another member to merge this code with updated data from the oddsAPI to get real time data from major sportsbooks like Bovada, Draftkings, Fanduel, BetMGM, etc. 
 
-Photo renderings are shown in the project files: example1.png and example2.png
+Photo renderings are shown in the project files: example1.jpeg and example2.jpeg
